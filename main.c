@@ -8,7 +8,7 @@
 #define MINTURN 100
 #define MAXTURN 100
 #define STEP 1
-#define pi 3.141592659
+#define pi 3.14159265359
 
 static double applerange[S];
 
